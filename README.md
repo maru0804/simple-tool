@@ -46,11 +46,14 @@ pdf_marge.pdfが作成される
 * numpy --1.18.1
 * pillow --8.0.1
 
+anacondaを使用した。
+
 ## Installation
  
 ```bash
-pip install natsort
-pip install PyPDF2
+conda install cv2
+conda install numpy
+conda install pillow
 ```
  
 ## Usage
